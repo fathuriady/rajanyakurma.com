@@ -1,0 +1,17 @@
+.fontcolorutama{
+	color: white;
+}
+
+.resizesetengah {
+	max-width: 70%;
+	height: auto;
+}
+
+.resizebanyak{
+	max-width: 40%;
+	height: auto;
+}
+
+.seksi1{
+	background-color: #2c7873;
+}
