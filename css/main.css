@@ -12,6 +12,11 @@
 	height: auto;
 }
 
+.resizegede{
+	max-width: 250%;
+	height: auto;
+}
+
 .seksi1{
 	background-color: #2c7873;
 }
